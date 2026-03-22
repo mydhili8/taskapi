@@ -1,0 +1,17 @@
+/Users/mydhili/taskapisample/publish/taskapisample
+/Users/mydhili/taskapisample/publish/publish/web.config
+/Users/mydhili/taskapisample/publish/appsettings.Development.json
+/Users/mydhili/taskapisample/publish/appsettings.json
+/Users/mydhili/taskapisample/publish/publish/appsettings.Development.json
+/Users/mydhili/taskapisample/publish/publish/appsettings.json
+/Users/mydhili/taskapisample/publish/publish/taskapisample.deps.json
+/Users/mydhili/taskapisample/publish/publish/taskapisample.runtimeconfig.json
+/Users/mydhili/taskapisample/publish/taskapisample.dll
+/Users/mydhili/taskapisample/publish/taskapisample.deps.json
+/Users/mydhili/taskapisample/publish/taskapisample.runtimeconfig.json
+/Users/mydhili/taskapisample/publish/taskapisample.pdb
+/Users/mydhili/taskapisample/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/mydhili/taskapisample/publish/Microsoft.OpenApi.dll
+/Users/mydhili/taskapisample/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mydhili/taskapisample/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mydhili/taskapisample/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
